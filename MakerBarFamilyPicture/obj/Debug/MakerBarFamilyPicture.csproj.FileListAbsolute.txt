@@ -1,0 +1,57 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\obj\Debug\MakerBarFamilyPicture.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\MakerBarFamilyPicture\obj\Debug\MakerBarFamilyPicture.pdb
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.exe
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.exe
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.pdb
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.pdb
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\ResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\TinyCLR_DebugReferences.cache
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\MakerBarFamilyPicture.exe
+\\psf\home\Documents\Visual Studio 2010\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\MakerBarFamilyPicture.pdb
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.exe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.exe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.pdb
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.pdb
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\MakerBarFamilyPicture.exe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\MakerBarFamilyPicture.pdb
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\MakerBarFamilyPicture.exe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\MakerBarFamilyPicture.pdb
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\le\MakerBarFamilyPicture.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\be\MakerBarFamilyPicture.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\be\MakerBarFamilyPicture.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\be\MakerBarFamilyPicture.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\le\MakerBarFamilyPicture.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\obj\Debug\le\MakerBarFamilyPicture.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\Komodex.NETMF.MicroTweet.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\VikingErik.NetMF.MicroLinq.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\Komodex.NETMF.MicroTweet.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\VikingErik.NetMF.MicroLinq.pe
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\Komodex.NETMF.MicroTweet.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\LE\VikingErik.NetMF.MicroLinq.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\Komodex.NETMF.MicroTweet.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\BE\VikingErik.NetMF.MicroLinq.pdbx
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\Komodex.NETMF.MicroTweet.dll
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\VikingErik.NetMF.MicroLinq.dll
+C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\bin\Debug\Komodex.NETMF.MicroTweet.pdb
