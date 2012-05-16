@@ -54,10 +54,10 @@ namespace MakerBarFamilyPicture
                 Debug.Print("Setting up Twitter");
 
                 twitterClient = new TwitterClient(
-                    "mQsYioa3z2irOXVFg3ceA", // Consumer Key
-                    "bQI7DmhULTBNQ4FkYN5MNK9jCJIXYOBmdP2HYvZO91Y", // Consumer Secret. Shhh! 
-                    "492681381-ZEbzvSBAvjqMClAUqmDdvKqNvLQdHKUMyhSV25Uv", // Access Token
-                    "DddqvlLMxPuzB3ViHTv1QXwu5HJfnXjCUMuhX1EU"); // Access Token Secret. Shhh!
+                    "Placeholder", // Consumer Key
+                    "Placeholder", // Consumer Secret. Shhh! 
+                    "Placeholder", // Access Token
+                    "Placeholder"); // Access Token Secret. Shhh!
                 twitterClient.DebugMessage += new DebugMessageEventHandler(tweetBot_DebugMessage);
             }
 
