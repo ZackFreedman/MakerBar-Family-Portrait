@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakerBarFamilyPicture", "C:\Projects\MakerBarFamilyPicture\MakerBarFamilyPicture\MakerBarFamilyPicture.csproj", "{CDD441AD-B1F8-469A-B47F-6E8EBD09B329}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakerBarFamilyPicture", "MakerBarFamilyPicture\MakerBarFamilyPicture.csproj", "{CDD441AD-B1F8-469A-B47F-6E8EBD09B329}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodex.NETMF.MicroTweet", "\\psf\Home\Downloads\NETMFMicroTweet\Komodex.NETMF.MicroTweet\Komodex.NETMF.MicroTweet.csproj", "{0ED5DED2-E18A-420F-9C1D-D92A800669E1}"
 EndProject
